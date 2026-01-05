@@ -22,6 +22,7 @@ once the number is found, making it both simple and efficient.
 🧩 **Example**
 -
 **Matrix:**
+
 55 77 1
 
 5 24 6
